@@ -1,9 +1,19 @@
 <p dir="auto">⠀</p>
 <div align="center" dir="auto">
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3144t4e3cclfn2vqfpxbzp5hkqga&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"></p>
+<markdown-accessiblity-table data-catalyst=""><table>
+<tbody>
+<tr>
+<td width="40%" align="center">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/l85uiu.png"><img src="https://files.catbox.moe/l85uiu.png" width="250" data-canonical-src="https://files.catbox.moe/l85uiu.png" style="max-width: 100%;"></a>
+</td>
+<td width="28%" align="center">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=" style="max-width: 100%;"></a></p>
+<h3 dir="auto">
+$${\color{grey}𝔇eanㅤorㅤ𝔅𝔲cky}$$ <br/>
+$${\color{grey}he/himㅤ۫ ׅㅤ۫15}$$ <br/>
+$${\color{grey}ᯓㅤiwcㅤ𖹭ㅤilmbf}$$ <br/>
+<br/>
+<sub> <a href="https://guns.lol/2emorse" rel="nofollow">𝒢unslol</a></sub>ㅤ <sub> <a href="https://huntingrifle.atabook.org/" rel="nofollow">𝒜ta</a></sub>
   <br/>
-  <div align="center" dir="auto">
-
-   ⠀ <a href="https://guns.lol/2emorse" rel="nofollow"><b>gunslol</b></a>           ⠀ ⠀ ⠀ ⠀<a href="https://huntingrifle.atabook.org/" rel="nofollow"><b>新book</b></a>      ⠀
-
-<p dir="auto">⠀</p>
+  <br/>
+</table></markdown-accessiblity-table>
