@@ -1,7 +1,7 @@
 <p dir="auto">⠀</p>
 <div align="center" dir="auto">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/l85uiu.png"><img src="https://files.catbox.moe/l85uiu.png" width="250" data-canonical-src="https://files.catbox.moe/l85uiu.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/l85uiu.png"><img src="https://files.catbox.moe/l85uiu.png" width="190" data-canonical-src="https://files.catbox.moe/l85uiu.png" style="max-width: 100%;"></a>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=" style="max-width: 100%;"></a></p>
 <h3 dir="auto">
