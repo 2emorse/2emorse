@@ -1,12 +1,8 @@
 <p dir="auto">⠀</p>
 <div align="center" dir="auto">
-<markdown-accessiblity-table data-catalyst=""><table>
-<tbody>
-<tr>
-<td width="40%" align="center">
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/l85uiu.png"><img src="https://files.catbox.moe/l85uiu.png" width="250" data-canonical-src="https://files.catbox.moe/l85uiu.png" style="max-width: 100%;"></a>
-</td>
-<td width="28%" align="center">
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=" style="max-width: 100%;"></a></p>
 <h3 dir="auto">
 $${\color{grey}𝔇eanㅤorㅤ𝔅𝔲cky}$$ <br/>
