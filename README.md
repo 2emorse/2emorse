@@ -7,7 +7,7 @@
 <h3 dir="auto">
 $${\color{grey}𝔇eanㅤorㅤ𝔖ebastian}$$ <br/>
 $${\color{grey}he/himㅤ۫ ׅㅤ۫15}$$ <br/>
-$${\color{grey}ᯓㅤiwcㅤ𖹭ㅤilmbf}$$ <br/>
+$${\color{grey}ᯓㅤiwcㅤ𖹭ㅤ}$$ <br/>
 <br/>
 <sub> <a href="https://guns.lol/2emorse" rel="nofollow">𝒢unslol</a></sub>ㅤ <sub> <a href="https://huntingrifle.atabook.org/" rel="nofollow">𝒜ta</a></sub>
   <br/>
