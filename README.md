@@ -5,7 +5,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=" style="max-width: 100%;"></a></p>
 <h3 dir="auto">
-$${\color{grey}⑮ㅤirish}$$ <br/>
+$${\color{grey}⑮ㅤ irish}$$ <br/>
   $${\color{grey}no1ㅤsebstanㅤluvr}$$
 <br/>
   <br/>
