@@ -9,7 +9,7 @@ $${\color{grey}⑮ㅤ irish}$$ <br/>
   $${\color{grey}no1ㅤsebstanㅤluvr}$$
 <br/>
   <br/>
-<sub> <a href="https://guns.lol/2emorse" rel="nofollow">𝒢unslol</a></sub>ㅤ <sub> <a href="https://huntingrifle.atabook.org/" rel="nofollow">𝒜ta</a></sub>
+<sub> <a href="https://rentry.co/whatthebuck" rel="nofollow">RENTRY</a></sub>ㅤ <sub> <a href="https://huntingrifle.atabook.org/" rel="nofollow">ATA</a></sub>
   <br/>
   <br/>
 </table></markdown-accessiblity-table>
